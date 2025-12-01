@@ -1,6 +1,5 @@
 # Customer Credit Risk Model
 
-# Customer Credit Risk Model
 Project Overview
 This project develops an end-to-end machine learning model that predicts the probability that a customer will become delinquent or default on a credit obligation. The workflow includes data preparation, feature engineering, model training, evaluation, and model explainability.
 This project reflects the analytical work performed by American Express Credit & Risk Analytics teams, who design, validate, and optimize underwriting and credit decisioning models.
